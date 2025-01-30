@@ -1,4 +1,4 @@
-%FURKAN
+%FURKANTO
 clear all;
 close all;
 
