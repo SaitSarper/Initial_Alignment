@@ -1,6 +1,7 @@
 clear all;
 close all;
-
+%mewowww 
+a=4;
 % GROUND TRUTH ORIENTATION
 angle = [30 90 40];
 q_true = quaternion([angle(1) angle(2) angle(3)],"eulerd","zyx","frame");%yaw,pitch,roll NED
